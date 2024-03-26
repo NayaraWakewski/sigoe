@@ -1,4 +1,4 @@
-<img src="logo-sigoe.png" alt="Logo do SIGOE" width="200"/>
+<img src="sigoe-logo.png" alt="Logo do SIGOE" width="200"/>
 
 # DATATHON ONS - Sistema Integrado de Gestão e Otimização Energética (SIGOE)
 
