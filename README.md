@@ -20,7 +20,7 @@ O sistema é composto por diversos módulos integrados, cada um focado em aspect
 
 #### :globe_with_meridians: Dashboard Nacional de Energia (DNE)
 
-- **Funcionalidade:** Integração dos dados da ONS com análises avançadas para monitoramento em tempo real da demanda, geração e distribuição de energia em nível nacional.
+- **Funcionalidade:** Integração dos dados da ONS com análises avançadas para monitoramento em tempo real da demanda, geração em nível nacional.
 - **Tecnologia:** API's das bases de dados da ONS ou conexão com fontes de dados que promovam a atualização em tempo real.
 
 <details>
@@ -101,7 +101,7 @@ O sistema é composto por diversos módulos integrados, cada um focado em aspect
 
 #### :wind_face: Dashboard Rede Adaptativa de Compartilhamento Energético (RACE)
 
-- **Funcionalidade:** Divide regiões de alta incidência solar ou eólica e estabelece unidades compartilhadas de distribuição de energia, ajustando a alocação de energia entre regiões conforme a necessidade.
+- **Funcionalidade:** Divide regiões de alta incidência solar ou eólica e estabelece unidades compartilhadas de geração de energia, ajustando a alocação de energia entre regiões conforme a necessidade.
 - **Tecnologia:** Sistemas de gestão de rede avançados que permitem o fluxo bidirecional de energia e o uso de micro-redes.
 
 <details>
@@ -134,7 +134,7 @@ Incorpora IA e análise de dados para uma gestão energética mais inteligente, 
 
 > ### Flexibilidade
 
-Ajusta automaticamente as estratégias de geração e distribuição em resposta a eventos climáticos, demanda flutuante e disponibilidade de recursos renováveis.
+Ajusta automaticamente as estratégias de geração em resposta a eventos climáticos, demanda flutuante e disponibilidade de recursos renováveis.
 
 > ### Resiliência
 
