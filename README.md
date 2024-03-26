@@ -1,4 +1,4 @@
-![Logo do SIGOE](URL_DA_IMAGEM_SIGOE_AQUI) ![Logo da ONS](URL_DA_IMAGEM_ONS_AQUI)
+![Logo do SIGOE](Modern Energy Logo, Leaf and Thunder Lightning logo template.png)
 
 # DATATHON ONS - Sistema Integrado de Gestão e Otimização Energética (SIGOE)
 
