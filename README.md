@@ -137,4 +137,4 @@ A implementação do SIGOE destacaria principalmente a Integração dos Setores 
 
 [Conheça o **SIGOE**](https://app.powerbi.com/view?r=eyJrIjoiZjBjNDYyMWItZDljYi00MzRhLWJlNTctMzBmYWYzOTYxMjczIiwidCI6ImJkMWMxZTAzLTU2MDMtNDUzNy04ODY5LWQ5ZGQyYzRiMjc2MiJ9&pageName=ReportSection)
 
-> **Sugestão de Imagem Final:** Um gráfico ou infográfico destacando os benefícios e impactos positivos do SIGOE na gestão de energia.
+<img src="capa.png" alt="Capa do SIGOE" width="200"/>
